@@ -9,7 +9,7 @@ import os
 
 JOKE = (
     "The fern by the window has outlasted four managers, two rebrandings, "
-    "and a merger, and this morning HR asked it to mentor the new intern."
+    "and one merger, and HR asked it to mentor the new intern."
 )
 
 
